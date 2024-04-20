@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "614368860764",
+    "project_id": "login-bca56",
+    "storage_bucket": "login-bca56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614368860764:android:97898331efd52cdb906499",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI8sUbh5OYTnPutXpxMKfEOrIQOofaxAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

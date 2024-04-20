@@ -1,0 +1,11 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here -->
+    </style>
+
+    <!-- Define the Theme.SOS1 style -->
+    <style name="Theme.SOS1" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your SOS1 theme here -->
+    </style>
+</resources>
